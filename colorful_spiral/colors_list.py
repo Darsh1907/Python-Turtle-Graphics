@@ -1,0 +1,23 @@
+colors_list=[
+    'yellow', 
+    'gold', 
+    'orange', 
+    'red', 
+    'maroon', 
+    'violet', 
+    'magenta', 
+    'purple', 
+    'navy', 
+    'blue', 
+    'skyblue', 
+    'cyan', 
+    'turquoise', 
+    'lightgreen', 
+    'green', 
+    'darkgreen', 
+    'chocolate', 
+    'brown', 
+    'black', 
+    'gray',
+    'crimson'
+]
