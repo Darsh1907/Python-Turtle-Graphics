@@ -25,3 +25,11 @@
 ### 8. Shapes on same centre
 ![image](https://user-images.githubusercontent.com/118650412/226117149-22c4c405-bdf2-4537-8a2e-45c4248685d7.png)
 
+### 9. Spiral
+![image](https://user-images.githubusercontent.com/118650412/226117340-9c038f07-cad4-433f-b3cf-aa7d2beee14e.png)
+
+### 10. Heart
+![image](https://user-images.githubusercontent.com/118650412/226117407-99172720-3912-439c-a7f3-7ed6189ad472.png)
+
+### 11. Rainbow Benzene
+![image](https://user-images.githubusercontent.com/118650412/226117546-15651448-ad09-4be2-85fe-ced2d2676538.png)
