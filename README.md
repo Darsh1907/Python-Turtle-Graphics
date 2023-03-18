@@ -10,4 +10,9 @@
 ### 3. Turtle Crossing
 ![image](https://user-images.githubusercontent.com/118650412/226116491-b9d463f9-cf38-4b5b-8ca7-f7321a941728.png)
 
-### 4. 
+### 4. Colorful spiral
+![Untitled](https://user-images.githubusercontent.com/118650412/226116603-beebc867-c6a5-48a7-9159-d4d2db4688f9.png)
+
+### 5. Etch a Sketch
+![etch_a_sketch](https://user-images.githubusercontent.com/118650412/226116614-7eb8b606-0719-4428-81cd-5693d7268d2c.png)
+
