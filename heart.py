@@ -1,0 +1,12 @@
+from turtle import *
+color ('crimson')
+begin_fill()
+pensize(5)
+left (50)
+forward(113)
+circle (50,200)
+right (140)
+circle (50, 200)
+goto (0, 0)
+end_fill()
+exitonclick()
