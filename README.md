@@ -16,3 +16,12 @@
 ### 5. Etch a Sketch
 ![etch_a_sketch](https://user-images.githubusercontent.com/118650412/226116614-7eb8b606-0719-4428-81cd-5693d7268d2c.png)
 
+### 6. Random Walk
+![image](https://user-images.githubusercontent.com/118650412/226117071-049b58c1-6742-4ff4-b660-21d65241ebcf.png)
+
+### 7. Shapes on same base
+![image](https://user-images.githubusercontent.com/118650412/226117103-ab8a5a91-4808-457e-a78e-941213292730.png)
+
+### 8. Shapes on same centre
+![image](https://user-images.githubusercontent.com/118650412/226117149-22c4c405-bdf2-4537-8a2e-45c4248685d7.png)
+
