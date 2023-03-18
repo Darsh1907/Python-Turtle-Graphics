@@ -34,4 +34,10 @@
 ### 11. Rainbow Benzene
 ![image](https://user-images.githubusercontent.com/118650412/226117546-15651448-ad09-4be2-85fe-ced2d2676538.png)
 
-### 12. 
+### 12. Turtle Race Bet
+![image](https://user-images.githubusercontent.com/118650412/226117948-2f5818b4-6080-41eb-a017-eff235894025.png)
+![image](https://user-images.githubusercontent.com/118650412/226118074-0557f57d-c217-4402-ac29-e156f5c64ed5.png)
+![image](https://user-images.githubusercontent.com/118650412/226118124-e8261dcb-5b1c-4f6c-a2ea-ea176fdb3e24.png)
+
+### 13. Virus
+![image](https://user-images.githubusercontent.com/118650412/226118337-a081d598-fb33-4935-b4ee-ecabca690a1d.png)
